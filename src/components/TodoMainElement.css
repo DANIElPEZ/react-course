@@ -56,7 +56,8 @@ ul{
     box-sizing: border-box;
     background-color: #051c4e;
     margin: 0 0 1.4rem 0;
-    width: 400px;
+    width: 90%;
+    max-width: 400px;
     padding: 0.5rem 0.7rem;
     border-radius: 13px;
     box-shadow: 0 5px 10px #0008;

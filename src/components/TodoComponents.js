@@ -22,7 +22,6 @@ function TodoFilter(){
                     setSearchValue(e.target.value); //actualizamos el estado
                 }}
             />
-            <span className="material-symbols-outlined find">search</span>
         </div>
     );
 }
