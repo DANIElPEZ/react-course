@@ -62,6 +62,7 @@ ul{
     border-radius: 13px;
     box-shadow: 0 5px 10px #0008;
     transition: transform 0.3s ease;
+    overflow-wrap: break-word;
 }
 
 .card:hover{
